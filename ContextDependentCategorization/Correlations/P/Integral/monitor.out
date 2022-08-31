@@ -1,0 +1,16 @@
+2.5 2
+/nfs/ghome/live/francescam/Projects/venv/lib/python3.8/site-packages/scipy/integrate/quadpack.py:879: IntegrationWarning: The maximum number of subdivisions (8) has been achieved.
+  If increasing the limit yields no improvement it is advised to analyze 
+  the integrand in order to determine the difficulties.  If the position of a 
+  local difficulty can be determined (singularity, discontinuity) one will 
+  probably gain from splitting up the interval and calling the integrator 
+  on the subranges.  Perhaps a special-purpose integrator should be used.
+  quad_r = quad(f, low, high, args=args, full_output=self.full_output,
+Int_11p3_12 0.002848911876774575
+Int_11p2_12_13 0.0015127854668030318
+Int_11p2_12_22 0.000815297316445906
+Int_11p2_12_21 0.0009797027517471312
+Int_11_12_13_14 0.0010042365940239526
+Int_11_12_13_23 0.0004588195922384151
+Int_11_12_22_23 0.00034382759984783216
+Int_11_12_21_22 0.0005981213815611425
